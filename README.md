@@ -42,13 +42,13 @@ ANEXO II – PROGRAMAS DAS DISCIPLINAS DO NÚCLEO ARTICULADOR
    * Histórico e fundamentos
    * Serviços:
      * World Wide Web
-       a. Navegadores
-       b. Sistema acadêmico
-       c. Pesquisa de Informações
-       d. Download de arquivos
-       e. Correio eletrônico
-       f. Grupos/listas de discussão
-       g. Boas práticas de comportamento
+       1. Navegadores
+       2. Sistema acadêmico
+       3. Pesquisa de Informações
+       4. Download de arquivos
+       5. Correio eletrônico
+       6. Grupos/listas de discussão
+       7. Boas práticas de comportamento
        
      * Conversa online
      * Outras aplicações
